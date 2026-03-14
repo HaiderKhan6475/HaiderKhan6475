@@ -83,5 +83,6 @@ Advancing in:
 ## 📫 Contact & Collaboration
 
 📧 Email:thinkcod031@gmail.com  
+📧 Email:haiderkhanh623@gmail.com  
 🌍 Location: Pakistan  
 💼 Open to Remote / Part-Time ML & DevOps-Oriented Roles  
