@@ -118,7 +118,7 @@ I bridge the gap between advanced Artificial Intelligence and real-world busines
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HaiderKhan6475&show_icons=true&theme=dark&hide_border=true" alt="Haider's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HaiderKhan6475&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HaiderKhan6475&layout=compact&theme=dark&hide_border=true&langs_count=3" alt="Top Languages" width="48%" />
 </p>
 
 ---
