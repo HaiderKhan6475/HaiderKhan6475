@@ -1,5 +1,7 @@
 <h1 align="center">Haider Khan</h1>
-<h3 align="center">AI Systems Engineer | Workflow Automation & Multi-Agent Architectures</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Workflow+Automation+Expert;Multi-Agent+Architect;MLOps+%26+Infrastructure+Engineer" alt="Typing SVG" /></a>
+</h3>
 
 <p align="center">
   <b>Transforming Complex Business Operations into Autonomous, Production-Grade AI Systems</b>
@@ -92,29 +94,4 @@ I bridge the gap between advanced Artificial Intelligence and real-world busines
 
 ---
 
-## My Engineering Workflow (How We Work Together)
-
-1. **Architecture Blueprinting:** Mapping your manual operations (HVAC, Booking, Logistics) into clear, deterministic logic flows before writing any code.
-2. **Deterministic Agent Development:** Developing isolated, multi-agent modules using enterprise Python standards—ensuring agents only use valid tools and safe data APIs.
-3. **MLOps Deployment & Hardening:** Enclosing the setup in Docker, wiring up CI/CD automation pipelines, and testing for extreme edge cases so the system never breaks under heavy production load.
-
----
-
-## Current Technical Focus
-
-* Advanced Multi-Agent Frameworks (LangGraph, CrewAI, AutoGen)
-* Cloud-Native MLOps Orchestration (MLflow, Kubeflow, DVC)
-* High-Performance Vector Databases & Advanced RAG (Retrieval-Augmented Generation)
-
----
-
-## Let's Automate Your Operations
-
-* **Primary Contact:** [thinkcod031@gmail.com](mailto:thinkcod031@gmail.com)
-* **Secondary Contact:** [haiderkhanh623@gmail.com](mailto:haiderkhanh623@gmail.com)
-* **Location:** Pakistan (Available for Global Remote, Contract, & Timezone-Flexible Work)
-
----
-<p align="center">
-  <i>"Don't just wrap APIs. Build the underlying infrastructure that runs them reliably."</i>
-</p>
+## My Engineering Workflow (How We Work Together
