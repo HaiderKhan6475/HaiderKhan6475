@@ -50,7 +50,7 @@ I bridge the gap between advanced Artificial Intelligence and real-world busines
 
 ### Robust Backend Architecture & Data Engineering
 * **Enterprise Python Engineering:** Developing decoupled, modular backend systems using SOLID principles and asynchronous execution.
-* **Secure Infrastructure:** Implementing industry-standard security layers, including OAuth2/JWT authentication, role-based access controls (RBAC), and secure data-handling protocols.
+* **Secure Infrastructure:** Implementation of industry-standard security layers, including OAuth2/JWT authentication, role-based access controls (RBAC), and secure data-handling protocols.
 * **Data Science & Pipelines:** Automated data preprocessing, exploratory data analysis (EDA), and transformation layers that feed directly into production AI models.
 
 ### Powered By My Production Stack
