@@ -94,4 +94,42 @@ I bridge the gap between advanced Artificial Intelligence and real-world busines
 
 ---
 
-## My Engineering Workflow (How We Work Together
+## My Engineering Workflow (How We Work Together)
+
+1. **Architecture Blueprinting:** Mapping your manual operations (HVAC, Booking, Logistics) into clear, deterministic logic flows before writing any code.
+2. **Deterministic Agent Development:** Developing isolated, multi-agent modules using enterprise Python standards—ensuring agents only use valid tools and safe data APIs.
+3. **MLOps Deployment & Hardening:** Enclosing the setup in Docker, wiring up CI/CD automation pipelines, and testing for extreme edge cases so the system never breaks under heavy production load.
+
+---
+
+## Current Technical Focus
+
+* Advanced Multi-Agent Frameworks (LangGraph, CrewAI, AutoGen)
+* Cloud-Native MLOps Orchestration (MLflow, Kubeflow, DVC)
+* High-Performance Vector Databases & Advanced RAG (Retrieval-Augmented Generation)
+
+---
+
+## 📊 My GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaiderKhan6475&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaiderKhan6475&show_icons=true&theme=dark&hide_border=true" alt="Haider's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderKhan6475&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## Let's Automate Your Operations
+
+* **Primary Contact:** [thinkcod031@gmail.com](mailto:thinkcod031@gmail.com)
+* **Secondary Contact:** [haiderkhanh623@gmail.com](mailto:haiderkhanh623@gmail.com)
+* **Location:** Pakistan (Available for Global Remote, Contract, & Timezone-Flexible Work)
+
+---
+<p align="center">
+  <i>"Don't just wrap APIs. Build the underlying infrastructure that runs them reliably."</i>
+</p>
