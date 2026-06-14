@@ -39,14 +39,14 @@ I help businesses scrape deep web data, bypass complex anti-bot systems, and gen
 
 ---
 
-## 📂 Repository Architecture & Directory Structure
+## 📂 Modular Portfolio Architecture
 
-Is repository ko strictly domain-wise organize kiya gaya hai taaki clean infrastructure maintain rahe. **Har domain ka apna ek alag folder hai, aur us folder ke andar individual project folders hain jo apni complete details (README, source code, aur setup guide) ke sath maujood hain:**
+To ensure absolute clarity and a professional presentation, **every engineering domain and project is split into its own independent, dedicated repository**. Each repository contains its own standalone codebase, detailed setup guides, and architectural breakdowns:
 
-* 📂 `Multi-Agent-Automation/` ➔ Contains autonomous agents and LangGraph workflows with complete project details.
-* 📂 `Web-Scraping-Automation/` ➔ Contains high-scale Playwright/Selenium scrapers and automated lead delivery engines.
-* 📂 `MLOps-Infrastructure/` ➔ Containerized pipelines, Docker setups, and server monitoring logic.
-* 📂 `Backend-Core-Engineering/` ➔ Enterprise Python architecture, robust database schemas, and API structures.
+* 🚀 **Multi-Agent Automation Repositories** ➔ Production-grade agentic workflows, function calling, and LangGraph multi-agent orchestration.
+* 🕷️ **Web Scraping & Lead Generation Repositories** ➔ Stealth data extraction pipelines, dynamic site parsing, and automated lead delivery engines.
+* ⚙️ **MLOps & Infrastructure Repositories** ➔ Dockerized development setups, high-availability configurations, and CI/CD automation.
+* 💻 **Backend Core Engineering Repositories** ➔ Asynchronous Python backends, enterprise API layouts, and secure database schemas.
 
 ---
 
@@ -85,7 +85,7 @@ Is repository ko strictly domain-wise organize kiya gaya hai taaki clean infrast
 
 ---
 
-## Selected Engineering Solutions (Projects)
+## Selected Engineering Solutions (Dedicated Projects)
 
 ### Multi-Agent Autonomous Dispatch & Analytics Engine
 * **The Solution:** An end-to-end operational pipeline where specialized autonomous agents collaborate to ingest real-world data, execute feature engineering, run predictive analysis, and output structured operational decisions.
